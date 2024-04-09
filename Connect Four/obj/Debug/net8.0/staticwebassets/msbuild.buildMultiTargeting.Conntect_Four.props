@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Conntect_Four.props" />
+</Project>
